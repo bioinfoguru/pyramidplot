@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pyramidplot"
+version = "0.1.2"
+description = "A Python package for creating pyramid plots using Matplotlib."
+readme = "README.md"
+authors = [
+    {name = "Manish Datt", email = "manish@bioinfo.guru"},
+]
+license = {text = "MIT"}
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "matplotlib",
+    "pandas",
+    "numpy",
+]
+requires-python = ">=3.6"
