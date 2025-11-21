@@ -41,7 +41,7 @@ pyramidplot(
 
 plt.show()
 ```
-![Pyramid Plot Demo](demo_plot.png)
+![Pyramid Plot Demo](https://github.com/bioinfoguru/pyramidplot/blob/main/demo_plot.png?raw=true)
 
 ### Using Lists
 
