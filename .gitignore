@@ -138,5 +138,6 @@ cython_debug/
 .vscode/
 .idea/
 
-# Project specific
-demo_plot.png
+# Scripts
+push_to_github.bat
+
